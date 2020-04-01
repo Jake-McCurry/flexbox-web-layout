@@ -107,6 +107,8 @@ body {
   font-size: 1.25em;
   height: 100%;
   color: #fff;
+  display: flex;
+  flex-flow: column nowrap;
 }
 
 header,
